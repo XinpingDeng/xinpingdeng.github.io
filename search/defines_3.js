@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['gxcorr_5fdefault_5fcal_5ffreq_117',['GXCORR_DEFAULT_CAL_FREQ',['../gxcorr__default_8h.html#a2e965eddc3fc7ede176a2dda94e1edf9',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fcal_5fphase_118',['GXCORR_DEFAULT_CAL_PHASE',['../gxcorr__default_8h.html#a3950c2b892fcbc682f3a43c6e7df42b4',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fchan0_119',['GXCORR_DEFAULT_CHAN0',['../gxcorr__default_8h.html#a7f4f734ee9141cd3bafed754c329aa1f',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fframe_5fdsize_120',['GXCORR_DEFAULT_FRAME_DSIZE',['../gxcorr__default_8h.html#a77e613ec3a948c00f3e908ace2a7befa',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fgpu_121',['GXCORR_DEFAULT_GPU',['../gxcorr__default_8h.html#a43b6869e987d8d8b3cfcd03479ba9b62',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5finvalid_5fratio_122',['GXCORR_DEFAULT_INVALID_RATIO',['../gxcorr__default_8h.html#af69419a8c614c2d364bac05e7da0b55e',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5flo_123',['GXCORR_DEFAULT_LO',['../gxcorr__default_8h.html#ad6f7e996a0dafab0910e8f9934cb7c1c',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fmu_124',['GXCORR_DEFAULT_MU',['../gxcorr__default_8h.html#af18fcf50be2c729c7c44eaf55f18f724',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fnant_125',['GXCORR_DEFAULT_NANT',['../gxcorr__default_8h.html#a3d6cd55496c68452433f192c4325bade',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fnchan_126',['GXCORR_DEFAULT_NCHAN',['../gxcorr__default_8h.html#a6e2dfb0522b5b74c319564125ffe43ec',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fnchan_5fkeep_127',['GXCORR_DEFAULT_NCHAN_KEEP',['../gxcorr__default_8h.html#a64d486d9da5c4cf836f01504e793d7fc',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fnframe_128',['GXCORR_DEFAULT_NFRAME',['../gxcorr__default_8h.html#aff535e6e17f22b51a853f50907a17cf6',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fnframe_5fextra_129',['GXCORR_DEFAULT_NFRAME_EXTRA',['../gxcorr__default_8h.html#a0326111214d3a136110387f27fe92a82',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fnrepeat_130',['GXCORR_DEFAULT_NREPEAT',['../gxcorr__default_8h.html#a0d2b208ab5d0b0dc6c0b2e15ad40e8e0',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fnthread_131',['GXCORR_DEFAULT_NTHREAD',['../gxcorr__default_8h.html#ad40eae557cfb8f8b8ff0570e02210852',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5freset_132',['GXCORR_DEFAULT_RESET',['../gxcorr__default_8h.html#a314fde3d462be8375144d09921704447',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fscale_5fmu_133',['GXCORR_DEFAULT_SCALE_MU',['../gxcorr__default_8h.html#ad0ff7fcabedbdef941e7341d6d23ecdc',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fscale_5fsigma_134',['GXCORR_DEFAULT_SCALE_SIGMA',['../gxcorr__default_8h.html#a50a479351733b40cc49bcda15f5fde8b',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5fstddev_135',['GXCORR_DEFAULT_STDDEV',['../gxcorr__default_8h.html#ad18bf0201fb39bfe359dc413f0bbc88e',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5ftpoly_136',['GXCORR_DEFAULT_TPOLY',['../gxcorr__default_8h.html#a696aaabc9a8652607ce1b3c25b8f9be9',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5ftsamp_137',['GXCORR_DEFAULT_TSAMP',['../gxcorr__default_8h.html#a80c94a10825412e91e7e5b843f8a704b',1,'gxcorr_default.h']]],
+  ['gxcorr_5fdefault_5ftstart_138',['GXCORR_DEFAULT_TSTART',['../gxcorr__default_8h.html#a2b8e26a7ad677a47d316068af7d1fb26',1,'gxcorr_default.h']]]
+];
